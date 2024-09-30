@@ -29,3 +29,7 @@ The Plant Disease Prediction App is a web application built using Streamlit that
 ```bash
 git clone https://github.com/yourusername/plant-disease-prediction-app.git
 cd plant-disease-prediction-app
+
+
+## Install Dependencies
+###Create a virtual environment (optional but recommended):
