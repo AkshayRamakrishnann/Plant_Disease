@@ -1,5 +1,7 @@
 # Plant Disease Prediction App
 
+![Screenshot 2024-09-29 232913](https://github.com/user-attachments/assets/b9d2637c-347c-4ce8-a589-933c62e25c8b)
+
 ## Overview
 
 The Plant Disease Prediction App is a web application built using Streamlit that allows users to upload images of plant leaves to identify potential diseases. This app utilizes deep learning models to analyze the uploaded images and provide predictions based on the visual characteristics of the leaves. The app also incorporates the OpenVINO library to optimize the model for inference, improving performance and enabling deployment on various hardware platforms.
