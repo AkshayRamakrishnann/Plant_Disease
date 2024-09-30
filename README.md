@@ -61,6 +61,8 @@ Once the model is converted to the IR format, it can be loaded and executed effi
 - **Cross-Platform Deployment**: The optimized model can run on various Intel hardware, including CPUs, GPUs, and VPUs, without needing to change the code.
 - **Faster Inference Times**: By leveraging Intel’s optimizations, the app provides real-time predictions, making it suitable for deployment in agricultural settings.
 
+- The trained model can be found here https://drive.google.com/drive/folders/1F6Uo83biNN0gGOMZCbKAtGoQsn9S7Ypx?usp=drive_link
+
 ### Performance Evaluation
 
 After integrating OpenVINO, the app showed significant improvements in inference times compared to the original TensorFlow model, allowing it to handle multiple requests simultaneously and providing a better user experience.
