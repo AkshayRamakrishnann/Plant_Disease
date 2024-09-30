@@ -10,6 +10,17 @@ The Plant Disease Prediction App is a web application built using Streamlit that
 - **Disease Prediction**: The app provides predictions of potential diseases based on the uploaded images.
 - **Optimized Inference**: The app leverages the OpenVINO toolkit to enhance model inference speed and efficiency.
 
+### Chatbot Functionality
+
+The application features a simple chatbot that allows users to interact and ask questions about the predicted plant diseases. The chatbot is designed to enhance user experience by providing:
+
+- **Interactive Q&A**: Users can ask questions related to plant diseases, symptoms, and possible treatments, and the chatbot will respond with relevant information.
+- **User Guidance**: The chatbot can guide users on how to interpret the predictions made by the image classification model, helping them understand the potential severity of the disease and recommended actions.
+- **Integration with Inference**: The chatbot can also provide follow-up questions based on the predictions, making it easier for users to gather more information related to their specific plant health issues.
+
+By incorporating a chatbot, the application aims to provide a more engaging and informative experience for users, facilitating better decision-making in agricultural practices.
+
+
 ## Table of Contents
 
 - [Installation](#installation)
